@@ -42,6 +42,9 @@ This project analyzes long-term trends in ice cover across the Great Lakes over 
 - AUC Computation: [`PKNCA`](https://cran.r-project.org/web/packages/PKNCA/vignettes/v05-auc-calculation-with-PKNCA.html)
 - Mann-Kendall Test: [`trend`](https://cran.r-project.org/web/packages/trend/index.html)
 
+## Resource
+- https://www.glerl.noaa.gov/data/ice/
+
 
 ## 📌 Authors
 
